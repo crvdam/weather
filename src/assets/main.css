@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #f9f9f9;
+  background-color: #FAF9F6;
+}
+
